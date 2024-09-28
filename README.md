@@ -12,12 +12,12 @@
 https://drive.google.com/file/d/1Oi6Pk_A-AMN9A_1oN-jGIYciE0sFaGl-/view?usp=drive_link
 
 
-<h3>Important Commands For Run This Project</h3>
+<h4>Important Commands For Run This Project</h4>
 
-# php composer install
-# composer require firebase/php-jwt
-# Php artisan serve
-# php artisan queue:work
+<p>php composer install</p>
+<p>composer require firebase/php-jwt</p>
+<p>Php artisan serve</p>
+<p>php artisan queue:work</p>
 
 
 
